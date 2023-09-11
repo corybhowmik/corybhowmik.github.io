@@ -37,10 +37,10 @@
 **Graduate TA @ Harvard Graduate School of Education (_2020 - 2021_)**
 - Educational Psychology
 
-**Instructor @ Stanford University (_2020 - 2021_)**
+**Instructor @ Stanford University (_2015 - 2019_)**
 - FROSH 101 - Mental Health & Diversity/Equity/Inclusion, MED 199-205 - Health Education for Urban POC, Introduction to Research
 
-**Undergraduate TA @ Stanford University (_2020 - 2021_)**
+**Undergraduate TA @ Stanford University (_2017 - 2019_)**
 - CME 102 - Ordinary Differential Equations, CHEM 31X - Accelerated Inorganic Chemistry, CHEM 141 - Physical Biochemistry
 
 ## Publications
