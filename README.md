@@ -2,22 +2,18 @@
 
 #### Pursuing internal medicine & pediatrics (med-peds) in urban communities of color. 
 
-#### Technical Skills: Python, R, MATLAB.
-
-#### Email: abhowmik@alumni.stanford.edu
-
 ## Education
 - MPH | Columbia University (_2025_)
 - MD | Zucker School of Medicine at Hofstra/Northwell (_2025_)								       		
 - EdM	| Harvard Graduate School of Education (_2020_)	 			        		
-- BS, Electrical Engineering | Stanford University (_2018_)
+- BS | Stanford University (Electrical Engineering) (_2018_)
 
 ## Research Experience
 **Graduate RA in Carceral Justice @ Warren Alpert Medical School at Brown University (_June 2023 - present_)**
 - Analyzing gaps in Hepatitis C treatment in carceral settings. Mentor: Dr. Justin Berk, MD.
 
 **Graduate RA in Health & Housing @ NYU Langone Health (_June 2022 - present_)**
-- Co-hosting podcasts with homeless people about their experience with health care, creating research summaries about homelessness and health care to disseminate to the public, and organizing a panel of homeless individuals to teach physicians how the health care system can better support them. Mentor: Dr. Kelly Doran, MD.
+- Co-hosting podcasts with homeless people about their experience with health care & creating research summaries about homelessness and health care to disseminate to the public. Mentor: Dr. Kelly Doran, MD.
 
 **Graduate RA in Cardiology @ Stanford School of Medicine (_June 2023 - present_)**
 - Analyzing the contribution of donor age on donor heart transplant refusals. Mentors: Dr. Brian Wayda, MD & Dr. Kiran Khush, MD.
@@ -33,30 +29,44 @@
 
 ## Teaching Experience
 **Adjunct Professor @ Southern New Hampshire University (_2022 - present_)**
-- MAT 225 - Calculus I: Single-Variable Calculus, MAT 275 - Calculus II: Integration and Series, MAT 325 - Calculus III: Multivariable Calculus, MAT 330 - Differential Equations, MAT 350 - Applied Linear Algebra, MAT 223 - Applications of Calculus, MAT 240 - Applied Statistics, MAT 243 - Applied Statistics for STEM
+- Calculus I: Single-Variable Calculus, Calculus II: Integration and Series, Calculus III: Multivariable Calculus, Differential Equations, Applied Linear Algebra, Applications of Calculus, Applied Statistics, Applied Statistics for STEM
 
 **High School Teacher @ Milton Academy (_2020 - 2021_)**
 - AP Calculus AB/BC, AP Statistics, Precalculus
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+**Graduate TA @ Harvard Graduate School of Education (_2020 - 2021_)**
+- Educational Psychology
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+**Instructor @ Stanford University (_2020 - 2021_)**
+- FROSH 101 - Mental Health & Diversity/Equity/Inclusion, MED 199-205 - Health Education for Urban POC, Introduction to Research
+
+**Undergraduate TA @ Stanford University (_2020 - 2021_)**
+- CME 102 - Ordinary Differential Equations, CHEM 31X - Accelerated Inorganic Chemistry, CHEM 141 - Physical Biochemistry
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+1. K Davis, AC Bhowmik, & G Fuligni. Health & housing stability I - An introduction. Hear Our Voices Podcasts, 2022.
+2. K Davis, AC Bhowmik, & G Fuligni. Health & housing stability II - An interview with a person with lived experience. Hear Our Voices Podcasts, 2022.
+3. AC Bhowmik & G Fuligni. Mental health & homelessness – A research summary. NYU Langone Health, 2022.
+4. JM Moore*, E Sala*, A Amorin**, H Martinez Jr**, AC Bhowmik**, S Chang, S Soltys, GR Harsh, & L Katznelson. CyberKnife radiosurgery in the multimodal management of patients with Cushing’s Disease. World Neurosurgery, 2018.
+5. E Sala*, JM Moore*, A Amorin**, H Martinez Jr**, AC Bhowmik**, L Lamsam, S Chang, S Soltys, L Katznelson, & GR Harsh. CyberKnife radiosurgery in the multimodal management of acromegaly patients with invasive macroadenoma: A single center’s experience. Journal of Neuro-Oncology, 2018.
+6. AC Bhowmik, N Hall, & M Quinn. Building detection in satellite images – Improving resource distribution in Rohingya Muslim refugee camps. Stanford Deep Learning Symposium, 2018.
+7. AC Bhowmik. Dual-use in synthetic biology: Balancing intellectual freedom with regulations on research. Stanford Journal of Public Health, 2017.
 
-- [Data Science Blog](https://medium.com/@shawhin)
+## Conference Abstracts
+1. WW An, AC Bhowmik, CA Nelson, & CL Wilkinson. Estimating chronological age from resting EEG power in children aged 2-36 months. Fetal, Infant, and Toddler Neuroimaging Group Conference, 2023.
+2. WW An, AC Bhowmik, CA Nelson, & CL Wilkinson. Estimating chronological age from resting EEG power in children aged 2-36 months. Society for Neuroscience, 2023.
+3. AC Bhowmik & G Fuligni. Medical student advocacy for homeless populations in healthcare. New York State Academy of Family Physicians Conference, 2023.
+4. AC Bhowmik & G Fuligni. Advocacy for homeless populations in healthcare – A narrative from the medical student perspective. Homeless Outreach Project Symposium, 2022.
+5. C Wilkinson, AC Bhowmik, & C Nelson. Predicting age in 2- to 12-month-old infants with and without future developmental delays using resting state EEG measures. Cognitive Neuroscience Society, 2021.
+6. E Sala*, JM Moore*, A Amorin**, H Martinez Jr**, AC Bhowmik**, L Lamsam, S Chang, S Soltys, L Katznelson, & GR Harsh. CyberKnife radiotherapy for the multimodal management of pituitary adenomas. Congress of Neurological Surgeons, 2017.
+
+## Posters & Talks
+I Berthomieux, K Davis, AC Bhowmik & G Fuligni. Flipping the script - A teach-in on the intersection of mental health and homelessness. NYU Langone Health, 2022.
+2. AC Bhowmik. Understanding mental health programs in schools: How educational interventions are trying to reduce depression and anxiety, especially for marginalized folx. Harvard Graduate School of Education, 2020.
+3. AC Bhowmik. On the association between hearing loss and depression: How auditory disabilities can stimulate mental health issues and cognitive decline. Columbia Biomedical Engineering, 2020.
+4. AC Bhowmik & A Atkins. Assessing implicit bias in sexuality using Python and R modeling. Harvard Graduate School of Education, 2020.
+5. AC Bhowmik, C Nwabugwu. Convolutional neural networks in Watson Health Imaging products. IBM Research, 2018.
+6. AC Bhowmik, E Brown. Classification of anesthetic states in patients using Kalman filtering and support vector machines. Stanford Symposia of Undergraduate Research and Public Service (SURPS), 2018.
+7. AC Bhowmik, B Belotserkovskii, & P Hanawalt. On the role of PNA:DNA hybrid length in transcription blockage and scheduled DNA excision pathways. Stanford Symposia of Undergraduate Research and Public Service (SURPS), 2016.
+8. AC Bhowmik, B Belotserkovskii, & P Hanawalt. On the role of PNA:DNA hybrid length in transcription blockage and scheduled DNA excision pathways. Stanford Summer Research Symposium in Biology, 2016.
+9. AC Bhowmik, B Belotserkovskii, & P Hanawalt. On the role of the nontemplate strand in RNA polymerase’s traversal of single-strand breaks. Stanford Summer Research Symposium in Biology, 2015.
