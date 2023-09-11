@@ -3,10 +3,10 @@
 #### Pursuing internal medicine & pediatrics (med-peds) in urban communities of color. 
 
 ## Education
-- MPH,    Columbia University (_2025_)
-- MD,     Zucker School of Medicine at Hofstra/Northwell (_2025_)								       		
-- EdM,    Harvard Graduate School of Education (_2020_)	 			        		
-- BS,_____     Stanford University (Electrical Engineering) (_2018_)
+- MPH | Columbia University (_2025_)
+- MD | Zucker School of Medicine at Hofstra/Northwell (_2025_)								       		
+- EdM | Harvard Graduate School of Education (_2020_)	 			        		
+- BS | Stanford University (Electrical Engineering) (_2018_)
 
 ## Research Experience
 **Graduate RA in Carceral Justice @ Warren Alpert Medical School at Brown University (_June 2023 - present_)**
