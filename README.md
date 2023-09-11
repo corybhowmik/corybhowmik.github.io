@@ -1,35 +1,42 @@
 # Medical Student
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Pursuing internal medicine & pediatrics (med-peds) in urban communities of color. 
+
+#### Technical Skills: Python, R, MATLAB.
+
+#### Email: abhowmik@alumni.stanford.edu
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- MPH | Columbia University (_2025_)
+- MD | Zucker School of Medicine at Hofstra/Northwell (_2025_)								       		
+- EdM	| Harvard Graduate School of Education (_2020_)	 			        		
+- BS, Electrical Engineering | Stanford University (_2018_)
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+## Research Experience
+**Graduate RA in Carceral Justice @ Warren Alpert Medical School at Brown University (_June 2023 - present_)**
+- Analyzing gaps in Hepatitis C treatment in carceral settings. Mentor: Dr. Justin Berk, MD.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Graduate RA in Health & Housing @ NYU Langone Health (_June 2022 - present_)**
+- Co-hosting podcasts with homeless people about their experience with health care, creating research summaries about homelessness and health care to disseminate to the public, and organizing a panel of homeless individuals to teach physicians how the health care system can better support them. Mentor: Dr. Kelly Doran, MD.
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+**Graduate RA in Cardiology @ Stanford School of Medicine (_June 2023 - present_)**
+- Analyzing the contribution of donor age on donor heart transplant refusals. Mentors: Dr. Brian Wayda, MD & Dr. Kiran Khush, MD.
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+**Graduate RA in Med-Peds @ Northwell Health (_June 2023 - present_)**
+- Analyzing the relationship between emergency department visits, neighborhood safety, and employment status for sickle cell patients. Mentor: Dr. Sophia Jan, MD.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+**Graduate RA in Child Neurology @ Harvard Medical School (_August 2019 - present_)**
+- Built regression models in Python to predict developmental delays in infants using EEG signals. Mentors: Dr. Charles Nelson, PhD & Dr. Carol Wilkinson, MD, PhD.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+**Medical Imaging Intern @ IBM Research (_2018_)**
+- Used convolutional neural nets to improve medical image classification and Watson Health Imaging products.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+## Teaching Experience
+**Adjunct Professor @ Southern New Hampshire University (_2022 - present_)**
+- MAT 225 - Calculus I: Single-Variable Calculus, MAT 275 - Calculus II: Integration and Series, MAT 325 - Calculus III: Multivariable Calculus, MAT 330 - Differential Equations, MAT 350 - Applied Linear Algebra, MAT 223 - Applications of Calculus, MAT 240 - Applied Statistics, MAT 243 - Applied Statistics for STEM
 
-![Bike Study](/assets/img/bike_study.jpeg)
+**High School Teacher @ Milton Academy (_2020 - 2021_)**
+- AP Calculus AB/BC, AP Statistics, Precalculus
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
