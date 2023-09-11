@@ -3,17 +3,17 @@
 #### Pursuing internal medicine & pediatrics (med-peds) in urban communities of color. 
 
 ## Education
-- MPH | Columbia University (_2025_)
-- MD | Zucker School of Medicine at Hofstra/Northwell (_2025_)								       		
-- EdM | Harvard Graduate School of Education (_2020_)	 			        		
-- BS | Stanford University (Electrical Engineering) (_2018_)
+- _MPH_, Columbia University (_2025_)
+- _MD_, Zucker School of Medicine at Hofstra/Northwell (_2025_)								       		
+- _EdM_, Harvard Graduate School of Education (_2020_)	 			        		
+- _BS_, Stanford University (Electrical Engineering) (_2018_)
 
 ## Research Experience
 **Graduate RA in Carceral Justice @ Warren Alpert Medical School at Brown University (_June 2023 - present_)**
 - Analyzing gaps in Hepatitis C treatment in carceral settings. Mentor: Dr. Justin Berk, MD.
 
 **Graduate RA in Health & Housing @ NYU Langone Health (_June 2022 - present_)**
-- Co-hosting podcasts with homeless people about their experience with health care & creating research summaries about homelessness and health care to disseminate to the public. Mentor: Dr. Kelly Doran, MD.
+- Co-hosting podcasts with homeless people about their experience with health care & creating research summaries about homelessness to disseminate to the public. Mentor: Dr. Kelly Doran, MD.
 
 **Graduate RA in Cardiology @ Stanford School of Medicine (_June 2023 - present_)**
 - Analyzing the contribution of donor age on donor heart transplant refusals. Mentors: Dr. Brian Wayda, MD & Dr. Kiran Khush, MD.
@@ -47,8 +47,8 @@
 1. K Davis, AC Bhowmik, & G Fuligni. Health & housing stability I - An introduction. Hear Our Voices Podcasts, 2022.
 2. K Davis, AC Bhowmik, & G Fuligni. Health & housing stability II - An interview with a person with lived experience. Hear Our Voices Podcasts, 2022.
 3. AC Bhowmik & G Fuligni. Mental health & homelessness – A research summary. NYU Langone Health, 2022.
-4. JM Moore*, E Sala*, A Amorin**, H Martinez Jr**, AC Bhowmik**, S Chang, S Soltys, GR Harsh, & L Katznelson. CyberKnife radiosurgery in the multimodal management of patients with Cushing’s Disease. World Neurosurgery, 2018.
-5. E Sala*, JM Moore*, A Amorin**, H Martinez Jr**, AC Bhowmik**, L Lamsam, S Chang, S Soltys, L Katznelson, & GR Harsh. CyberKnife radiosurgery in the multimodal management of acromegaly patients with invasive macroadenoma: A single center’s experience. Journal of Neuro-Oncology, 2018.
+4. JM Moore, E Sala, A Amorin, H Martinez Jr, AC Bhowmik, S Chang, S Soltys, GR Harsh, & L Katznelson. CyberKnife radiosurgery in the multimodal management of patients with Cushing’s Disease. World Neurosurgery, 2018.
+5. E Sala, JM Moore, A Amorin, H Martinez Jr, AC Bhowmik, L Lamsam, S Chang, S Soltys, L Katznelson, & GR Harsh. CyberKnife radiosurgery in the multimodal management of acromegaly patients with invasive macroadenoma: A single center’s experience. Journal of Neuro-Oncology, 2018.
 6. AC Bhowmik, N Hall, & M Quinn. Building detection in satellite images – Improving resource distribution in Rohingya Muslim refugee camps. Stanford Deep Learning Symposium, 2018.
 7. AC Bhowmik. Dual-use in synthetic biology: Balancing intellectual freedom with regulations on research. Stanford Journal of Public Health, 2017.
 
@@ -58,10 +58,10 @@
 3. AC Bhowmik & G Fuligni. Medical student advocacy for homeless populations in healthcare. New York State Academy of Family Physicians Conference, 2023.
 4. AC Bhowmik & G Fuligni. Advocacy for homeless populations in healthcare – A narrative from the medical student perspective. Homeless Outreach Project Symposium, 2022.
 5. C Wilkinson, AC Bhowmik, & C Nelson. Predicting age in 2- to 12-month-old infants with and without future developmental delays using resting state EEG measures. Cognitive Neuroscience Society, 2021.
-6. E Sala*, JM Moore*, A Amorin**, H Martinez Jr**, AC Bhowmik**, L Lamsam, S Chang, S Soltys, L Katznelson, & GR Harsh. CyberKnife radiotherapy for the multimodal management of pituitary adenomas. Congress of Neurological Surgeons, 2017.
+6. E Sala, JM Moore, A Amorin, H Martinez Jr, AC Bhowmik, L Lamsam, S Chang, S Soltys, L Katznelson, & GR Harsh. CyberKnife radiotherapy for the multimodal management of pituitary adenomas. Congress of Neurological Surgeons, 2017.
 
 ## Posters & Talks
-I Berthomieux, K Davis, AC Bhowmik & G Fuligni. Flipping the script - A teach-in on the intersection of mental health and homelessness. NYU Langone Health, 2022.
+1. I Berthomieux, K Davis, AC Bhowmik & G Fuligni. Flipping the script - A teach-in on the intersection of mental health and homelessness. NYU Langone Health, 2022.
 2. AC Bhowmik. Understanding mental health programs in schools: How educational interventions are trying to reduce depression and anxiety, especially for marginalized folx. Harvard Graduate School of Education, 2020.
 3. AC Bhowmik. On the association between hearing loss and depression: How auditory disabilities can stimulate mental health issues and cognitive decline. Columbia Biomedical Engineering, 2020.
 4. AC Bhowmik & A Atkins. Assessing implicit bias in sexuality using Python and R modeling. Harvard Graduate School of Education, 2020.
