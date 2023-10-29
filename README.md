@@ -1,9 +1,8 @@
 # Medical Student
 
-#### Pursuing internal medicine & pediatrics (med-peds) in urban communities of color. 
+#### Pursuing primary care and public health in communities of color. 
 
 ## Education
-- _MPH_, Columbia University (_2025_)
 - _MD_, Zucker School of Medicine at Hofstra/Northwell (_2025_)								       		
 - _EdM_, Harvard Graduate School of Education (_2020_)	 			        		
 - _BS_, Stanford University (Electrical Engineering) (_2018_)
@@ -18,7 +17,7 @@
 **Graduate RA in Cardiology @ Stanford School of Medicine (_June 2023 - present_)**
 - Analyzing the contribution of donor age on donor heart transplant refusals. Mentors: Dr. Brian Wayda, MD & Dr. Kiran Khush, MD.
 
-**Graduate RA in Med-Peds @ Northwell Health (_June 2023 - present_)**
+**Graduate RA in Social Determinants of Health @ Northwell Health (_June 2023 - present_)**
 - Analyzing the relationship between emergency department visits, neighborhood safety, and employment status for sickle cell patients. Mentor: Dr. Sophia Jan, MD.
 
 **Graduate RA in Child Neurology @ Harvard Medical School (_August 2019 - present_)**
