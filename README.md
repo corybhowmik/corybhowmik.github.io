@@ -3,7 +3,7 @@
 #### Pursuing primary care and public health in communities of color. 
 
 ## Education
-- _MD_, Zucker School of Medicine at Hofstra/Northwell (_2025_)								       		
+- _MD_, Hofstra/Northwell School of Medicine (_2025_)								       		
 - _EdM_, Harvard Graduate School of Education (_2020_)	 			        		
 - _BS_, Stanford University (Electrical Engineering) (_2018_)
 
