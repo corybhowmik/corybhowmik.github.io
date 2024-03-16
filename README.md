@@ -1,4 +1,4 @@
-# Medical Student
+# MD/MPH Student
 
 #### Pursuing medicine and public health in BIPOC (Black, Indigenous, & People of Color) communities.
 
