@@ -1,30 +1,28 @@
 # Medical Student
 
-#### Pursuing primary care and public health in communities of color. 
+#### Pursuing medicine and public health in BIPOC (Black, Indigenous, & People of Color) communities.
 
 ## Education
+- _MPH_, Johns Hopkins University (_2025_)
 - _MD_, Hofstra/Northwell School of Medicine (_2025_)								       		
 - _EdM_, Harvard Graduate School of Education (_2020_)	 			        		
 - _BS_, Stanford University (Electrical Engineering) (_2018_)
 
 ## Research Experience
-**Graduate RA in Carceral Justice @ Warren Alpert Medical School at Brown University (_June 2023 - present_)**
+**Graduate RA in Carceral Health @ Warren Alpert Medical School at Brown University (_June 2023 - present_)**
 - Analyzing gaps in Hepatitis C treatment in carceral settings. Mentor: Dr. Justin Berk, MD.
 
-**Graduate RA in Health & Housing @ NYU Langone Health (_June 2022 - present_)**
+**Graduate RA in Homelessness @ NYU Langone Health (_June 2022 - present_)**
 - Co-hosting podcasts with homeless people about their experience with health care & creating research summaries about homelessness to disseminate to the public. Mentor: Dr. Kelly Doran, MD.
 
 **Graduate RA in Cardiology @ Stanford School of Medicine (_June 2023 - present_)**
-- Analyzing the contribution of donor age on donor heart transplant refusals. Mentors: Dr. Brian Wayda, MD & Dr. Kiran Khush, MD.
+- Analyzing the contribution of donor age on donor heart offer refusal. Mentors: Dr. Brian Wayda, MD & Dr. Kiran Khush, MD.
+
+**Graduate RA in Neurology @ Harvard Medical School (_August 2019 - present_)**
+- Building regression models in Python to predict developmental delays in infants using EEG signals. Mentors: Dr. Charles Nelson, PhD & Dr. Carol Wilkinson, MD, PhD.
 
 **Graduate RA in Social Determinants of Health @ Northwell Health (_June 2023 - present_)**
 - Analyzing the relationship between emergency department visits, neighborhood safety, and employment status for sickle cell patients. Mentor: Dr. Sophia Jan, MD.
-
-**Graduate RA in Child Neurology @ Harvard Medical School (_August 2019 - present_)**
-- Built regression models in Python to predict developmental delays in infants using EEG signals. Mentors: Dr. Charles Nelson, PhD & Dr. Carol Wilkinson, MD, PhD.
-
-**Medical Imaging Intern @ IBM Research (_2018_)**
-- Used convolutional neural nets to improve medical image classification and Watson Health Imaging products.
 
 ## Teaching Experience
 **Adjunct Professor @ Southern New Hampshire University (_2022 - present_)**
@@ -67,10 +65,8 @@ for emerging adults with sickle cell disease. Society of General Internal Medici
 ## Posters & Talks
 1. I Berthomieux, K Davis, AC Bhowmik & G Fuligni. Flipping the script - A teach-in on the intersection of mental health and homelessness. NYU Langone Health, 2022.
 2. AC Bhowmik. Understanding mental health programs in schools: How educational interventions are trying to reduce depression and anxiety, especially for marginalized folx. Harvard Graduate School of Education, 2020.
-3. AC Bhowmik. On the association between hearing loss and depression: How auditory disabilities can stimulate mental health issues and cognitive decline. Columbia Biomedical Engineering, 2020.
-4. AC Bhowmik & A Atkins. Assessing implicit bias in sexuality using Python and R modeling. Harvard Graduate School of Education, 2020.
-5. AC Bhowmik, C Nwabugwu. Convolutional neural networks in Watson Health Imaging products. IBM Research, 2018.
-6. AC Bhowmik, E Brown. Classification of anesthetic states in patients using Kalman filtering and support vector machines. Stanford Symposia of Undergraduate Research and Public Service (SURPS), 2018.
-7. AC Bhowmik, B Belotserkovskii, & P Hanawalt. On the role of PNA:DNA hybrid length in transcription blockage and scheduled DNA excision pathways. Stanford Symposia of Undergraduate Research and Public Service (SURPS), 2016.
-8. AC Bhowmik, B Belotserkovskii, & P Hanawalt. On the role of PNA:DNA hybrid length in transcription blockage and scheduled DNA excision pathways. Stanford Summer Research Symposium in Biology, 2016.
-9. AC Bhowmik, B Belotserkovskii, & P Hanawalt. On the role of the nontemplate strand in RNA polymerase’s traversal of single-strand breaks. Stanford Summer Research Symposium in Biology, 2015.
+3. AC Bhowmik & A Atkins. Assessing implicit bias in sexuality using Python and R modeling. Harvard Graduate School of Education, 2020.
+4. AC Bhowmik & E Brown. Classification of anesthetic states in patients using Kalman filtering and support vector machines. Stanford Symposia of Undergraduate Research and Public Service (SURPS), 2018.
+5. AC Bhowmik, B Belotserkovskii, & P Hanawalt. On the role of PNA:DNA hybrid length in transcription blockage and scheduled DNA excision pathways. Stanford Symposia of Undergraduate Research and Public Service (SURPS), 2016.
+6. AC Bhowmik, B Belotserkovskii, & P Hanawalt. On the role of PNA:DNA hybrid length in transcription blockage and scheduled DNA excision pathways. Stanford Summer Research Symposium in Biology, 2016.
+7. AC Bhowmik, B Belotserkovskii, & P Hanawalt. On the role of the nontemplate strand in RNA polymerase’s traversal of single-strand breaks. Stanford Summer Research Symposium in Biology, 2015.
