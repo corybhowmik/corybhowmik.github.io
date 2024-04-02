@@ -41,7 +41,7 @@
 - CME 102 - Ordinary Differential Equations, CHEM 31X - Accelerated Inorganic Chemistry, CHEM 141 - Physical Biochemistry
 
 ## Publications
-1. AC Bhowmik. Colonialism and capitalism as determinants of modern health. Hampton Institute, 2024.
+1. AC Bhowmik. Colonialism and capitalism as determinants of modern health. Hampton Institute: Health & Science, 2024.
 2. K Davis, AC Bhowmik, & G Fuligni. Health & housing stability I - An introduction. Hear Our Voices Podcasts, 2022.
 3. K Davis, AC Bhowmik, & G Fuligni. Health & housing stability II - An interview with a person with lived experience. Hear Our Voices Podcasts, 2022.
 4. AC Bhowmik & G Fuligni. Mental health & homelessness – A research summary. NYU Langone Health, 2022.
