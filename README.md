@@ -41,14 +41,15 @@
 - CME 102 - Ordinary Differential Equations, CHEM 31X - Accelerated Inorganic Chemistry, CHEM 141 - Physical Biochemistry
 
 ## Publications
-1. AC Bhowmik. Colonialism and capitalism as determinants of modern health. Hampton Institute: Health & Science, 2024.
-2. K Davis, AC Bhowmik, & G Fuligni. Health & housing stability I - An introduction. Hear Our Voices Podcasts, 2022.
-3. K Davis, AC Bhowmik, & G Fuligni. Health & housing stability II - An interview with a person with lived experience. Hear Our Voices Podcasts, 2022.
-4. AC Bhowmik & G Fuligni. Mental health & homelessness – A research summary. NYU Langone Health, 2022.
-5. JM Moore, E Sala, A Amorin, H Martinez Jr, AC Bhowmik, S Chang, S Soltys, GR Harsh, & L Katznelson. CyberKnife radiosurgery in the multimodal management of patients with Cushing’s Disease. World Neurosurgery, 2018.
-6. E Sala, JM Moore, A Amorin, H Martinez Jr, AC Bhowmik, L Lamsam, S Chang, S Soltys, L Katznelson, & GR Harsh. CyberKnife radiosurgery in the multimodal management of acromegaly patients with invasive macroadenoma: A single center’s experience. Journal of Neuro-Oncology, 2018.
-7. AC Bhowmik, N Hall, & M Quinn. Building detection in satellite images – Improving resource distribution in Rohingya Muslim refugee camps. Stanford Deep Learning Symposium, 2018.
-8. AC Bhowmik. Dual-use in synthetic biology: Balancing intellectual freedom with regulations on research. Stanford Journal of Public Health, 2017.
+1. AC Bhowmik, TF Odedele, & TT Odedele. A decolonial approach to mental health. Hampton Institute: Health & Science, 2024.
+2. AC Bhowmik. Colonialism and capitalism as determinants of modern health. Hampton Institute: Health & Science, 2024.
+3. K Davis, AC Bhowmik, & G Fuligni. Health & housing stability I - An introduction. Hear Our Voices Podcasts, 2022.
+4. K Davis, AC Bhowmik, & G Fuligni. Health & housing stability II - An interview with a person with lived experience. Hear Our Voices Podcasts, 2022.
+5. AC Bhowmik & G Fuligni. Mental health & homelessness – A research summary. NYU Langone Health, 2022.
+6. JM Moore, E Sala, A Amorin, H Martinez Jr, AC Bhowmik, S Chang, S Soltys, GR Harsh, & L Katznelson. CyberKnife radiosurgery in the multimodal management of patients with Cushing’s Disease. World Neurosurgery, 2018.
+7. E Sala, JM Moore, A Amorin, H Martinez Jr, AC Bhowmik, L Lamsam, S Chang, S Soltys, L Katznelson, & GR Harsh. CyberKnife radiosurgery in the multimodal management of acromegaly patients with invasive macroadenoma: A single center’s experience. Journal of Neuro-Oncology, 2018.
+8. AC Bhowmik, N Hall, & M Quinn. Building detection in satellite images – Improving resource distribution in Rohingya Muslim refugee camps. Stanford Deep Learning Symposium, 2018.
+9. AC Bhowmik. Dual-use in synthetic biology: Balancing intellectual freedom with regulations on research. Stanford Journal of Public Health, 2017.
 
 ## Conference Abstracts
 1. AC Bhowmik, C Steinway, T Belton, J Chen, B Aygun, A Appiah-Kubi, N Apollonsky, D Boruchov, B Andemariam, O Niss, L Crosby, L Schwartz, L Barakat, D Rubin, K Smith-Whitley, & S Jan. Contribution of neighborhood safety to the frequency of emergency department visits
