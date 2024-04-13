@@ -73,8 +73,8 @@ for emerging adults with sickle cell disease. Society of General Internal Medici
 7. AC Bhowmik, B Belotserkovskii, & P Hanawalt. On the role of the nontemplate strand in RNA polymerase’s traversal of single-strand breaks. Stanford Summer Research Symposium in Biology, 2015.
 
 ## Miscellaneous
-- Honors: Gold Humanism Honor Society, Stanford President’s Award for Top 5% GPA, Stanford Campus Impact Award for Health Education & Life Partnership for Kids, Stanford Community Partnership Award for Stanford Journal of Public Health
-- Certifications: Emergency Medical Technician (EMT), NY State Dept. of Health
-- Skills: Python, MATLAB, R
-- Hobbies: Dates with my partner (Titi), playing with our catahoula leopard dog (Coco), & bartending
+- **Honors:** Gold Humanism Honor Society, Stanford President’s Award for Top 5% GPA, Stanford Campus Impact Award for Health Education & Life Partnership for Kids, Stanford Community Partnership Award for Stanford Journal of Public Health
+- **Certifications:** Emergency Medical Technician (EMT), NY State Dept. of Health
+- **Skills:** Python, MATLAB, R
+- **Hobbies:** Dates with my partner (Titi), playing with our catahoula leopard dog (Coco), & bartending
 
