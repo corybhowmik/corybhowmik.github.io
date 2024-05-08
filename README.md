@@ -64,13 +64,14 @@ for emerging adults with sickle cell disease. Society of General Internal Medici
 9. E Sala, JM Moore, A Amorin, H Martinez Jr, AC Bhowmik, L Lamsam, S Chang, S Soltys, L Katznelson, & GR Harsh. CyberKnife radiotherapy for the multimodal management of pituitary adenomas. Congress of Neurological Surgeons, 2017.
 
 ## Posters & Talks
-1. I Berthomieux, K Davis, AC Bhowmik & G Fuligni. Flipping the script - A teach-in on the intersection of mental health and homelessness. NYU Langone Health, 2022.
-2. AC Bhowmik. Understanding mental health programs in schools: How educational interventions are trying to reduce depression and anxiety, especially for marginalized folx. Harvard Graduate School of Education, 2020.
-3. AC Bhowmik & A Atkins. Assessing implicit bias in sexuality using Python and R modeling. Harvard Graduate School of Education, 2020.
-4. AC Bhowmik & E Brown. Classification of anesthetic states in patients using Kalman filtering and support vector machines. Stanford Symposia of Undergraduate Research and Public Service (SURPS), 2018.
-5. AC Bhowmik, B Belotserkovskii, & P Hanawalt. On the role of PNA:DNA hybrid length in transcription blockage and scheduled DNA excision pathways. Stanford Symposia of Undergraduate Research and Public Service (SURPS), 2016.
-6. AC Bhowmik, B Belotserkovskii, & P Hanawalt. On the role of PNA:DNA hybrid length in transcription blockage and scheduled DNA excision pathways. Stanford Summer Research Symposium in Biology, 2016.
-7. AC Bhowmik, B Belotserkovskii, & P Hanawalt. On the role of the nontemplate strand in RNA polymerase’s traversal of single-strand breaks. Stanford Summer Research Symposium in Biology, 2015.
+1. E Pan, S Siddiqui, AC Bhowmik, M Bright, K Thompson, & A Alleva. Patient satisfaction with a student-run free clinic and its financial referral services. Hofstra/Northwell Capstone Symposium, 2024.
+2. I Berthomieux, K Davis, AC Bhowmik, & G Fuligni. Flipping the script - A teach-in on the intersection of mental health and homelessness. NYU Langone Health, 2022.
+3. AC Bhowmik. Understanding mental health programs in schools: How educational interventions are trying to reduce depression and anxiety, especially for marginalized folx. Harvard Graduate School of Education, 2020.
+4. AC Bhowmik & A Atkins. Assessing implicit bias in sexuality using Python and R modeling. Harvard Graduate School of Education, 2020.
+5. AC Bhowmik & E Brown. Classification of anesthetic states in patients using Kalman filtering and support vector machines. Stanford Symposia of Undergraduate Research and Public Service (SURPS), 2018.
+6. AC Bhowmik, B Belotserkovskii, & P Hanawalt. On the role of PNA:DNA hybrid length in transcription blockage and scheduled DNA excision pathways. Stanford Symposia of Undergraduate Research and Public Service (SURPS), 2016.
+7. AC Bhowmik, B Belotserkovskii, & P Hanawalt. On the role of PNA:DNA hybrid length in transcription blockage and scheduled DNA excision pathways. Stanford Summer Research Symposium in Biology, 2016.
+8. AC Bhowmik, B Belotserkovskii, & P Hanawalt. On the role of the nontemplate strand in RNA polymerase’s traversal of single-strand breaks. Stanford Summer Research Symposium in Biology, 2015.
 
 ## Miscellaneous
 - **Honors:** Gold Humanism Honor Society, Stanford President’s Award for Top 5% GPA, Stanford Campus Impact Award for Health Education & Life Partnership for Kids, Stanford Community Partnership Award for Stanford Journal of Public Health
