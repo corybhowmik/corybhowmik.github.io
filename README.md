@@ -16,7 +16,8 @@
 - Co-hosting podcasts with homeless people about their experience with health care & creating research summaries about homelessness to disseminate to the public. Mentor: Dr. Kelly Doran, MD.
 
 **Graduate RA in Cardiology @ Stanford School of Medicine (_June 2023 - present_)**
-- Analyzing the contribution of donor age on donor heart offer refusal. Mentors: Dr. Brian Wayda, MD & Dr. Kiran Khush, MD.
+- Analyzing (1) the role of donor age in donor heart offer refusal and (2) patterns in coronary angiogram
+performance in donors. Mentors: Dr. Brian Wayda, MD & Dr. Kiran Khush, MD.
 
 **Graduate RA in Neurology @ Harvard Medical School (_August 2019 - present_)**
 - Building regression models in Python to predict developmental delays in infants using EEG signals. Mentors: Dr. Charles Nelson, PhD & Dr. Carol Wilkinson, MD, PhD.
