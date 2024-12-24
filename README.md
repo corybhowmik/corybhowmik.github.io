@@ -42,9 +42,7 @@ performance in donors. Mentors: Dr. Brian Wayda, MD & Dr. Kiran Khush, MD.
 - CME 102 - Ordinary Differential Equations, CHEM 31X - Accelerated Inorganic Chemistry, CHEM 141 - Physical Biochemistry
 
 ## Publications
-1. WW An, AC Bhowmik, CA Nelson, & CL Wilkinson. EEG-based brain age prediction in in-
-fants–toddlers: Implications for early detection of neurodevelopmental disorders. Developmental
-Cognitive Neuroscience, 2024.
+1. WW An, AC Bhowmik, CA Nelson, & CL Wilkinson. EEG-based brain age prediction in infants–toddlers: Implications for early detection of neurodevelopmental disorders. Developmental Cognitive Neuroscience, 2024.
 2. AC Bhowmik. In pursuit of equitable care: The 2024 SGIM Annual Meeting from the student
 persepctive. Society of General Internal Medicine Forum, 2024.
 3. AC Bhowmik, B Wayda, H Luikart, Y Weng, S Zhang, RP Wood, J Nieto, T Groat, N Neidlinger,
