@@ -42,28 +42,31 @@ performance in donors. Mentors: Dr. Brian Wayda, MD & Dr. Kiran Khush, MD.
 - CME 102 - Ordinary Differential Equations, CHEM 31X - Accelerated Inorganic Chemistry, CHEM 141 - Physical Biochemistry
 
 ## Publications
-1. AC Bhowmik. In pursuit of equitable care: The 2024 SGIM Annual Meeting from the student
+1. WW An, AC Bhowmik, CA Nelson, & CL Wilkinson. EEG-based brain age prediction in in-
+fants–toddlers: Implications for early detection of neurodevelopmental disorders. Developmental
+Cognitive Neuroscience, 2024.
+2. AC Bhowmik. In pursuit of equitable care: The 2024 SGIM Annual Meeting from the student
 persepctive. Society of General Internal Medicine Forum, 2024.
-2. AC Bhowmik, B Wayda, H Luikart, Y Weng, S Zhang, RP Wood, J Nieto, T Groat, N Neidlinger,
+3. AC Bhowmik, B Wayda, H Luikart, Y Weng, S Zhang, RP Wood, J Nieto, T Groat, N Neidlinger,
 & KK Khush. Just a number? Donor age and (lack of) associated reasons for heart offer refusal
 in the Donor Heart Study. Journal of Heart and Lung Transplantation, 2024.
-3. AC Bhowmik. Dengue in West Bengal – Methods of infection prevention. Social and Behavioral
+4. AC Bhowmik. Dengue in West Bengal – Methods of infection prevention. Social and Behavioral
 Foundations of Primary Health Care, 2024.
-4. AC Bhowmik. Bob Marley - Building patient trust through a family-based approach. Society of
+5. AC Bhowmik. Bob Marley - Building patient trust through a family-based approach. Society of
 General Internal Medicine Forum, 2024.
-5. AC Bhowmik. Help: The assumption of drug-seeking behavior in Black patients presenting with
+6. AC Bhowmik. Help: The assumption of drug-seeking behavior in Black patients presenting with
 pain. Intima Journal of Narrative Medicine, 2024.
-6. AC Bhowmik. The state of medical care in the carceral system. Society of General Internal
+7. AC Bhowmik. The state of medical care in the carceral system. Society of General Internal
 Medicine Forum, 2024.
-7. AC Bhowmik, TF Odedele, & TT Odedele. A decolonial approach to mental health. Hampton Institute: Health & Science, 2024.
-8. AC Bhowmik. Colonialism and capitalism as determinants of modern health. Hampton Institute: Health & Science, 2024.
-9. K Davis, AC Bhowmik, & G Fuligni. Health & housing stability I - An introduction. Hear Our Voices Podcasts, 2022.
-10. K Davis, AC Bhowmik, & G Fuligni. Health & housing stability II - An interview with a person with lived experience. Hear Our Voices Podcasts, 2022.
-11. AC Bhowmik & G Fuligni. Mental health & homelessness – A research summary. NYU Langone Health, 2022.
-12. JM Moore, E Sala, A Amorin, H Martinez Jr, AC Bhowmik, S Chang, S Soltys, GR Harsh, & L Katznelson. CyberKnife radiosurgery in the multimodal management of patients with Cushing’s Disease. World Neurosurgery, 2018.
-13. E Sala, JM Moore, A Amorin, H Martinez Jr, AC Bhowmik, L Lamsam, S Chang, S Soltys, L Katznelson, & GR Harsh. CyberKnife radiosurgery in the multimodal management of acromegaly patients with invasive macroadenoma: A single center’s experience. Journal of Neuro-Oncology, 2018.
-14. AC Bhowmik, N Hall, & M Quinn. Building detection in satellite images – Improving resource distribution in Rohingya Muslim refugee camps. Stanford Deep Learning Symposium, 2018.
-15. AC Bhowmik. Dual-use in synthetic biology: Balancing intellectual freedom with regulations on research. Stanford Journal of Public Health, 2017.
+8. AC Bhowmik, TF Odedele, & TT Odedele. A decolonial approach to mental health. Hampton Institute: Health & Science, 2024.
+9. AC Bhowmik. Colonialism and capitalism as determinants of modern health. Hampton Institute: Health & Science, 2024.
+10. K Davis, AC Bhowmik, & G Fuligni. Health & housing stability I - An introduction. Hear Our Voices Podcasts, 2022.
+11. K Davis, AC Bhowmik, & G Fuligni. Health & housing stability II - An interview with a person with lived experience. Hear Our Voices Podcasts, 2022.
+12. AC Bhowmik & G Fuligni. Mental health & homelessness – A research summary. NYU Langone Health, 2022.
+13. JM Moore, E Sala, A Amorin, H Martinez Jr, AC Bhowmik, S Chang, S Soltys, GR Harsh, & L Katznelson. CyberKnife radiosurgery in the multimodal management of patients with Cushing’s Disease. World Neurosurgery, 2018.
+14. E Sala, JM Moore, A Amorin, H Martinez Jr, AC Bhowmik, L Lamsam, S Chang, S Soltys, L Katznelson, & GR Harsh. CyberKnife radiosurgery in the multimodal management of acromegaly patients with invasive macroadenoma: A single center’s experience. Journal of Neuro-Oncology, 2018.
+15. AC Bhowmik, N Hall, & M Quinn. Building detection in satellite images – Improving resource distribution in Rohingya Muslim refugee camps. Stanford Deep Learning Symposium, 2018.
+16. AC Bhowmik. Dual-use in synthetic biology: Balancing intellectual freedom with regulations on research. Stanford Journal of Public Health, 2017.
 
 ## Conference Abstracts
 1. AC Bhowmik, B Wayda, Y Weng, S Zhang, & KK Khush. Who gets one? Trends, variation, and predictors of donor coronary angiogram performance. International Society for Heart and Lung Transplantation, 2025.
