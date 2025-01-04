@@ -42,52 +42,43 @@ performance in donors. Mentors: Dr. Brian Wayda, MD & Dr. Kiran Khush, MD.
 - CME 102 - Ordinary Differential Equations, CHEM 31X - Accelerated Inorganic Chemistry, CHEM 141 - Physical Biochemistry
 
 ## Publications
-1. WW An, AC Bhowmik, CA Nelson, & CL Wilkinson. EEG-based brain age prediction in infants–toddlers: Implications for early detection of neurodevelopmental disorders. Developmental Cognitive Neuroscience, 2024.
-2. AC Bhowmik. In pursuit of equitable care: The 2024 SGIM Annual Meeting from the student
-persepctive. Society of General Internal Medicine Forum, 2024.
-3. AC Bhowmik, B Wayda, H Luikart, Y Weng, S Zhang, RP Wood, J Nieto, T Groat, N Neidlinger,
-& KK Khush. Just a number? Donor age and (lack of) associated reasons for heart offer refusal
-in the Donor Heart Study. Journal of Heart and Lung Transplantation, 2024.
-4. AC Bhowmik. Dengue in West Bengal – Methods of infection prevention. Social and Behavioral
-Foundations of Primary Health Care, 2024.
-5. AC Bhowmik. Bob Marley - Building patient trust through a family-based approach. Society of
-General Internal Medicine Forum, 2024.
-6. AC Bhowmik. Help: The assumption of drug-seeking behavior in Black patients presenting with
-pain. Intima Journal of Narrative Medicine, 2024.
-7. AC Bhowmik. The state of medical care in the carceral system. Society of General Internal
-Medicine Forum, 2024.
-8. AC Bhowmik, TF Odedele, & TT Odedele. A decolonial approach to mental health. Hampton Institute: Health & Science, 2024.
-9. AC Bhowmik. Colonialism and capitalism as determinants of modern health. Hampton Institute: Health & Science, 2024.
-10. K Davis, AC Bhowmik, & G Fuligni. Health & housing stability I - An introduction. Hear Our Voices Podcasts, 2022.
-11. K Davis, AC Bhowmik, & G Fuligni. Health & housing stability II - An interview with a person with lived experience. Hear Our Voices Podcasts, 2022.
-12. AC Bhowmik & G Fuligni. Mental health & homelessness – A research summary. NYU Langone Health, 2022.
-13. JM Moore, E Sala, A Amorin, H Martinez Jr, AC Bhowmik, S Chang, S Soltys, GR Harsh, & L Katznelson. CyberKnife radiosurgery in the multimodal management of patients with Cushing’s Disease. World Neurosurgery, 2018.
-14. E Sala, JM Moore, A Amorin, H Martinez Jr, AC Bhowmik, L Lamsam, S Chang, S Soltys, L Katznelson, & GR Harsh. CyberKnife radiosurgery in the multimodal management of acromegaly patients with invasive macroadenoma: A single center’s experience. Journal of Neuro-Oncology, 2018.
-15. AC Bhowmik, N Hall, & M Quinn. Building detection in satellite images – Improving resource distribution in Rohingya Muslim refugee camps. Stanford Deep Learning Symposium, 2018.
-16. AC Bhowmik. Dual-use in synthetic biology: Balancing intellectual freedom with regulations on research. Stanford Journal of Public Health, 2017.
+1. AC Bhowmik, B Wayda, H Luikart, Y Weng, S Zhang, RP Wood, J Nieto, T Groat, N Neidlinger, & KK Khush (2024). Just a number? Donor age and (lack of) associated reasons for heart offer refusal in the Donor Heart Study. Journal of Heart and Lung Transplantation, 43(11):1833-1837.
+2. WW An, AC Bhowmik, CA Nelson, & CL Wilkinson (2024). EEG-based brain age prediction in infants–toddlers: Implications for early detection of neurodevelopmental disorders. Developmental Cognitive Neuroscience.
+3. AC Bhowmik (2024). In pursuit of equitable care: The 2024 SGIM Annual Meeting from the student perspective. Society of General Internal Medicine Forum, 47(10):7-15.
+4. AC Bhowmik (2024). Dengue in West Bengal – Methods of infection prevention. Social and Behavioral Foundations of Primary Health Care.
+5. AC Bhowmik (2024). Bob Marley - Building patient trust through a family-based approach. Society of General Internal Medicine Forum, 47(7):9-15.
+6. AC Bhowmik (2024). Help: The assumption of drug-seeking behavior in Black patients presenting with pain. Intima Journal of Narrative Medicine.
+7. AC Bhowmik (2024). The state of medical care in the carceral system. Society of General Internal Medicine Forum, 47(6):1-12.
+8. AC Bhowmik (2024). Colonialism and capitalism as determinants of modern health. Hampton Institute: Health & Science.
+9. K Davis, AC Bhowmik, & G Fuligni (2022). Health & housing stability I - An introduction. Hear Our Voices Podcasts.
+10. K Davis, AC Bhowmik, & G Fuligni (2022). Health & housing stability II - An interview with a person with lived experience. Hear Our Voices Podcasts.
+11. AC Bhowmik & G Fuligni (2022). Mental health & homelessness – A research summary. NYU Langone Health.
+12. JM Moore*, E Sala*, A Amorin**, H Martinez Jr**, AC Bhowmik**, S Chang, S Soltys, GR Harsh, & L Katznelson (2018). CyberKnife radiosurgery in the multimodal management of patients with Cushing’s Disease. World Neurosurgery, 112(1):425-439.
+13. E Sala*, JM Moore*, A Amorin**, H Martinez Jr**, AC Bhowmik**, L Lamsam, S Chang, S Soltys, L Katznelson, & GR Harsh (2018). CyberKnife radiosurgery in the multimodal management of acromegaly patients with invasive macroadenoma: A single center’s experience. Journal of Neuro-Oncology, 138(2):291-298.
+14. AC Bhowmik, N Hall, & M Quinn (2018). Building detection in satellite images – Improving resource distribution in Rohingya Muslim refugee camps. Stanford Deep Learning Symposium.
+15. 15. AC Bhowmik (2017). Dual-use in synthetic biology: Balancing intellectual freedom with regulations on research. Stanford Journal of Public Health, 6(1):7-10.
 
 ## Conference Abstracts
-1. AC Bhowmik, B Wayda, Y Weng, S Zhang, & KK Khush. Who gets one? Trends, variation, and predictors of donor coronary angiogram performance. International Society for Heart and Lung Transplantation, 2025.
-2. AC Bhowmik, C Steinway, T Belton, J Chen, B Aygun, A Appiah-Kubi, N Apollonsky, D Boruchov, B Andemariam, O Niss, L Crosby, L Schwartz, L Barakat, D Rubin, K Smith-Whitley, & S Jan. Contribution of neighborhood safety to the frequency of emergency department visits
-for emerging adults with sickle cell disease. Society of General Internal Medicine, 2024.
-3. AC Bhowmik, B Wayda, H Luikart, Y Weng, S Zhang, RP Wood, J Nieto, T Groat, N Neidlinger, & KK Khush. Just a number? Donor age and (lack of) associated reasons for heart offer refusal in the Donor Heart Study. International Society for Heart and Lung Transplantation, 2024.
-4. AC Bhowmik, C Steinway, T Belton, J Chen, B Aygun, A Appiah-Kubi, N Apollonsky, D Boruchov, B Andemariam, O Niss, L Crosby, L Schwartz, L Barakat, K Smith-Whitley, & S Jan. Contribution of neighborhood safety to the frequency of emergency department visits for emerging adults with sickle cell disease. Pediatric Academic Societies, 2024.
-5. WW An, AC Bhowmik, CA Nelson, & CL Wilkinson. Estimating chronological age from resting EEG power in children aged 2-36 months. Fetal, Infant, and Toddler Neuroimaging Group Conference, 2023.
-6. WW An, AC Bhowmik, CA Nelson, & CL Wilkinson. Estimating chronological age from resting EEG power in children aged 2-36 months. Society for Neuroscience, 2023.
-7. AC Bhowmik & G Fuligni. Medical student advocacy for homeless populations in healthcare. New York State Academy of Family Physicians Conference, 2023.
-8. AC Bhowmik & G Fuligni. Advocacy for homeless populations in healthcare – A narrative from the medical student perspective. Homeless Outreach Project Symposium, 2022.
-9. C Wilkinson, AC Bhowmik, & C Nelson. Predicting age in 2- to 12-month-old infants with and without future developmental delays using resting state EEG measures. Cognitive Neuroscience Society, 2021.
-10. E Sala, JM Moore, A Amorin, H Martinez Jr, AC Bhowmik, L Lamsam, S Chang, S Soltys, L Katznelson, & GR Harsh. CyberKnife radiotherapy for the multimodal management of pituitary adenomas. Congress of Neurological Surgeons, 2017.
+1. AC Bhowmik, B Wayda, Y Weng, S Zhang, & KK Khush (2025). Who gets one? Trends, variation, and predictors of donor coronary angiogram performance. International Society for Heart and Lung Transplantation.
+2. AC Bhowmik, C Steinway, T Belton, J Chen, B Aygun, A Appiah-Kubi, N Apollonsky, D Boruchov, B Andemariam, O Niss, L Crosby, L Schwartz, L Barakat, D Rubin, K Smith-Whitley, & S Jan (2024). Contribution of neighborhood safety to the frequency of emergency department visits for emerging adults with sickle cell disease. Society of General Internal Medicine.
+3. AC Bhowmik, B Wayda, H Luikart, Y Weng, S Zhang, RP Wood, J Nieto, T Groat, N Neidlinger, & KK Khush (2024). Just a number? Donor age and (lack of) associated reasons for heart offer refusal in the Donor Heart Study. International Society for Heart and Lung Transplantation.
+4. AC Bhowmik, C Steinway, T Belton, J Chen, B Aygun, A Appiah-Kubi, N Apollonsky, D Boruchov, B Andemariam, O Niss, L Crosby, L Schwartz, L Barakat, K Smith-Whitley, & S Jan (2024). Contribution of neighborhood safety to the frequency of emergency department visits for emerging adults with sickle cell disease. Pediatric Academic Societies.
+5. WW An, AC Bhowmik, CA Nelson, & CL Wilkinson (2023). Estimating chronological age from resting EEG power in children aged 2-36 months. Fetal, Infant, and Toddler Neuroimaging Group Conference.
+6. WW An, AC Bhowmik, CA Nelson, & CL Wilkinson (2023). Estimating chronological age from resting EEG power in children aged 2-36 months. Society for Neuroscience.
+7. 7. AC Bhowmik & G Fuligni (2023). Medical student advocacy for homeless populations in healthcare. New York State Academy of Family Physicians Conference.
+8. AC Bhowmik & G Fuligni (2022). Advocacy for homeless populations in healthcare – A narrative from the medical student perspective. Homeless Outreach Project Symposium.
+9. CL Wilkinson, AC Bhowmik, & CA Nelson (2021). Predicting age in 2- to 12-month-old infants with and without future developmental delays using resting state EEG measures. Cognitive Neuroscience Society.
+10. E Sala*, JM Moore*, A Amorin**, H Martinez Jr**, AC Bhowmik**, L Lamsam, S Chang, S Soltys, L Katznelson, & GR Harsh (2017). CyberKnife radiotherapy for the multimodal management of pituitary adenomas. Congress of Neurological Surgeons.
 
 ## Posters & Talks
-1. E Pan, S Siddiqui, AC Bhowmik, M Bright, K Thompson, & A Alleva. Patient satisfaction with a student-run free clinic and its financial referral services. Hofstra/Northwell Capstone Symposium, 2024.
-2. I Berthomieux, K Davis, AC Bhowmik, & G Fuligni. Flipping the script - A teach-in on the intersection of mental health and homelessness. NYU Langone Health, 2022.
-3. AC Bhowmik. Understanding mental health programs in schools: How educational interventions are trying to reduce depression and anxiety, especially for marginalized folx. Harvard Graduate School of Education, 2020.
-4. AC Bhowmik & A Atkins. Assessing implicit bias in sexuality using Python and R modeling. Harvard Graduate School of Education, 2020.
-5. AC Bhowmik & E Brown. Classification of anesthetic states in patients using Kalman filtering and support vector machines. Stanford Symposia of Undergraduate Research and Public Service (SURPS), 2018.
-6. AC Bhowmik, B Belotserkovskii, & P Hanawalt. On the role of PNA:DNA hybrid length in transcription blockage and scheduled DNA excision pathways. Stanford Symposia of Undergraduate Research and Public Service (SURPS), 2016.
-7. AC Bhowmik, B Belotserkovskii, & P Hanawalt. On the role of PNA:DNA hybrid length in transcription blockage and scheduled DNA excision pathways. Stanford Summer Research Symposium in Biology, 2016.
-8. AC Bhowmik, B Belotserkovskii, & P Hanawalt. On the role of the nontemplate strand in RNA polymerase’s traversal of single-strand breaks. Stanford Summer Research Symposium in Biology, 2015.
+1. E Pan, S Siddiqui, AC Bhowmik, M Bright, K Thompson, & A Alleva (2024). Patient satisfaction with a student-run free clinic and its financial referral services. Hofstra/Northwell Capstone Symposium.
+2. I Berthomieux, K Davis, AC Bhowmik, & G Fuligni (2022). Flipping the script - A teach-in on the intersection of mental health and homelessness. NYU Langone Health.
+3. AC Bhowmik (2020). Understanding mental health programs in schools: How educational interventions are trying to reduce depression and anxiety, especially for marginalized folx. Harvard Graduate School of Education.
+4. AC Bhowmik & A Atkins (2020). Assessing implicit bias in sexuality using Python and R modeling. Harvard Graduate School of Education.
+5. AC Bhowmik & E Brown (2018). Classification of anesthetic states in patients using Kalman filtering and support vector machines. Stanford Symposia of Undergraduate Research and Public Service (SURPS).
+6. AC Bhowmik, B Belotserkovskii, & P Hanawalt (2016). On the role of PNA:DNA hybrid length in transcription blockage and scheduled DNA excision pathways. Stanford Symposia of Undergraduate Research and Public Service (SURPS).
+7. AC Bhowmik, B Belotserkovskii, & P Hanawalt (2016). On the role of PNA:DNA hybrid length in transcription blockage and scheduled DNA excision pathways. Stanford Summer Research Symposium in Biology.
+8. AC Bhowmik, B Belotserkovskii, & P Hanawalt (2015). On the role of the nontemplate strand in RNA polymerase’s traversal of single-strand breaks. Stanford Summer Research Symposium in Biology.
 
 ## Miscellaneous
 - **Honors:** Gold Humanism Honor Society, Stanford President’s Award for Top 5% GPA, Stanford Campus Impact Award for Health Education & Life Partnership for Kids, Stanford Community Partnership Award for Stanford Journal of Public Health
