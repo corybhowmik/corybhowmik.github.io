@@ -53,8 +53,8 @@ performance in donors. Mentors: Dr. Brian Wayda, MD & Dr. Kiran Khush, MD.
 9. K Davis, AC Bhowmik, & G Fuligni (2022). Health & housing stability I - An introduction. Hear Our Voices Podcasts.
 10. K Davis, AC Bhowmik, & G Fuligni (2022). Health & housing stability II - An interview with a person with lived experience. Hear Our Voices Podcasts.
 11. AC Bhowmik & G Fuligni (2022). Mental health & homelessness – A research summary. NYU Langone Health.
-12. JM Moore*, E Sala*, A Amorin**, H Martinez Jr**, AC Bhowmik**, S Chang, S Soltys, GR Harsh, & L Katznelson (2018). CyberKnife radiosurgery in the multimodal management of patients with Cushing’s Disease. World Neurosurgery, 112(1):425-439.
-13. E Sala*, JM Moore*, A Amorin**, H Martinez Jr**, AC Bhowmik**, L Lamsam, S Chang, S Soltys, L Katznelson, & GR Harsh (2018). CyberKnife radiosurgery in the multimodal management of acromegaly patients with invasive macroadenoma: A single center’s experience. Journal of Neuro-Oncology, 138(2):291-298.
+12. JM Moore, E Sala, A Amorin, H Martinez Jr, AC Bhowmik, S Chang, S Soltys, GR Harsh, & L Katznelson (2018). CyberKnife radiosurgery in the multimodal management of patients with Cushing’s Disease. World Neurosurgery, 112(1):425-439.
+13. E Sala, JM Moore, A Amorin, H Martinez Jr, AC Bhowmik, L Lamsam, S Chang, S Soltys, L Katznelson, & GR Harsh (2018). CyberKnife radiosurgery in the multimodal management of acromegaly patients with invasive macroadenoma: A single center’s experience. Journal of Neuro-Oncology, 138(2):291-298.
 14. AC Bhowmik, N Hall, & M Quinn (2018). Building detection in satellite images – Improving resource distribution in Rohingya Muslim refugee camps. Stanford Deep Learning Symposium.
 15. AC Bhowmik (2017). Dual-use in synthetic biology: Balancing intellectual freedom with regulations on research. Stanford Journal of Public Health, 6(1):7-10.
 
@@ -68,7 +68,7 @@ performance in donors. Mentors: Dr. Brian Wayda, MD & Dr. Kiran Khush, MD.
 7. AC Bhowmik & G Fuligni (2023). Medical student advocacy for homeless populations in healthcare. New York State Academy of Family Physicians Conference.
 8. AC Bhowmik & G Fuligni (2022). Advocacy for homeless populations in healthcare – A narrative from the medical student perspective. Homeless Outreach Project Symposium.
 9. CL Wilkinson, AC Bhowmik, & CA Nelson (2021). Predicting age in 2- to 12-month-old infants with and without future developmental delays using resting state EEG measures. Cognitive Neuroscience Society.
-10. E Sala*, JM Moore*, A Amorin**, H Martinez Jr**, AC Bhowmik**, L Lamsam, S Chang, S Soltys, L Katznelson, & GR Harsh (2017). CyberKnife radiotherapy for the multimodal management of pituitary adenomas. Congress of Neurological Surgeons.
+10. E Sala, JM Moore, A Amorin, H Martinez Jr, AC Bhowmik, L Lamsam, S Chang, S Soltys, L Katznelson, & GR Harsh (2017). CyberKnife radiotherapy for the multimodal management of pituitary adenomas. Congress of Neurological Surgeons.
 
 ## Posters & Talks
 1. E Pan, S Siddiqui, AC Bhowmik, M Bright, K Thompson, & A Alleva (2024). Patient satisfaction with a student-run free clinic and its financial referral services. Hofstra/Northwell Capstone Symposium.
