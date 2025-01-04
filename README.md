@@ -56,7 +56,7 @@ performance in donors. Mentors: Dr. Brian Wayda, MD & Dr. Kiran Khush, MD.
 12. JM Moore*, E Sala*, A Amorin**, H Martinez Jr**, AC Bhowmik**, S Chang, S Soltys, GR Harsh, & L Katznelson (2018). CyberKnife radiosurgery in the multimodal management of patients with Cushing’s Disease. World Neurosurgery, 112(1):425-439.
 13. E Sala*, JM Moore*, A Amorin**, H Martinez Jr**, AC Bhowmik**, L Lamsam, S Chang, S Soltys, L Katznelson, & GR Harsh (2018). CyberKnife radiosurgery in the multimodal management of acromegaly patients with invasive macroadenoma: A single center’s experience. Journal of Neuro-Oncology, 138(2):291-298.
 14. AC Bhowmik, N Hall, & M Quinn (2018). Building detection in satellite images – Improving resource distribution in Rohingya Muslim refugee camps. Stanford Deep Learning Symposium.
-15. 15. AC Bhowmik (2017). Dual-use in synthetic biology: Balancing intellectual freedom with regulations on research. Stanford Journal of Public Health, 6(1):7-10.
+15. AC Bhowmik (2017). Dual-use in synthetic biology: Balancing intellectual freedom with regulations on research. Stanford Journal of Public Health, 6(1):7-10.
 
 ## Conference Abstracts
 1. AC Bhowmik, B Wayda, Y Weng, S Zhang, & KK Khush (2025). Who gets one? Trends, variation, and predictors of donor coronary angiogram performance. International Society for Heart and Lung Transplantation.
@@ -65,7 +65,7 @@ performance in donors. Mentors: Dr. Brian Wayda, MD & Dr. Kiran Khush, MD.
 4. AC Bhowmik, C Steinway, T Belton, J Chen, B Aygun, A Appiah-Kubi, N Apollonsky, D Boruchov, B Andemariam, O Niss, L Crosby, L Schwartz, L Barakat, K Smith-Whitley, & S Jan (2024). Contribution of neighborhood safety to the frequency of emergency department visits for emerging adults with sickle cell disease. Pediatric Academic Societies.
 5. WW An, AC Bhowmik, CA Nelson, & CL Wilkinson (2023). Estimating chronological age from resting EEG power in children aged 2-36 months. Fetal, Infant, and Toddler Neuroimaging Group Conference.
 6. WW An, AC Bhowmik, CA Nelson, & CL Wilkinson (2023). Estimating chronological age from resting EEG power in children aged 2-36 months. Society for Neuroscience.
-7. 7. AC Bhowmik & G Fuligni (2023). Medical student advocacy for homeless populations in healthcare. New York State Academy of Family Physicians Conference.
+7. AC Bhowmik & G Fuligni (2023). Medical student advocacy for homeless populations in healthcare. New York State Academy of Family Physicians Conference.
 8. AC Bhowmik & G Fuligni (2022). Advocacy for homeless populations in healthcare – A narrative from the medical student perspective. Homeless Outreach Project Symposium.
 9. CL Wilkinson, AC Bhowmik, & CA Nelson (2021). Predicting age in 2- to 12-month-old infants with and without future developmental delays using resting state EEG measures. Cognitive Neuroscience Society.
 10. E Sala*, JM Moore*, A Amorin**, H Martinez Jr**, AC Bhowmik**, L Lamsam, S Chang, S Soltys, L Katznelson, & GR Harsh (2017). CyberKnife radiotherapy for the multimodal management of pituitary adenomas. Congress of Neurological Surgeons.
