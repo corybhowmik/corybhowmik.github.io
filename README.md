@@ -42,8 +42,8 @@ performance in donors. Mentors: Dr. Brian Wayda, MD & Dr. Kiran Khush, MD.
 - CME 102 - Ordinary Differential Equations, CHEM 31X - Accelerated Inorganic Chemistry, CHEM 141 - Physical Biochemistry
 
 ## Publications
-1. AC Bhowmik, B Wayda, H Luikart, Y Weng, S Zhang, RP Wood, J Nieto, T Groat, N Neidlinger, & KK Khush (2024). Just a number? Donor age and (lack of) associated reasons for heart offer refusal in the Donor Heart Study. Journal of Heart and Lung Transplantation, 43(11):1833-1837.
-2. WW An, AC Bhowmik, CA Nelson, & CL Wilkinson (2024). EEG-based brain age prediction in infants–toddlers: Implications for early detection of neurodevelopmental disorders. Developmental Cognitive Neuroscience.
+1. WW An, AC Bhowmik, CA Nelson, & CL Wilkinson (2025). EEG-based brain age prediction in infants–toddlers: Implications for early detection of neurodevelopmental disorders. Developmental Cognitive Neuroscience, 71.
+2. AC Bhowmik, B Wayda, H Luikart, Y Weng, S Zhang, RP Wood, J Nieto, T Groat, N Neidlinger, & KK Khush (2024). Just a number? Donor age and (lack of) associated reasons for heart offer refusal in the Donor Heart Study. Journal of Heart and Lung Transplantation, 43(11):1833-1837.
 3. AC Bhowmik (2024). In pursuit of equitable care: The 2024 SGIM Annual Meeting from the student perspective. Society of General Internal Medicine Forum, 47(10):7-15.
 4. AC Bhowmik (2024). Dengue in West Bengal – Methods of infection prevention. Social and Behavioral Foundations of Primary Health Care.
 5. AC Bhowmik (2024). Bob Marley - Building patient trust through a family-based approach. Society of General Internal Medicine Forum, 47(7):9-15.
