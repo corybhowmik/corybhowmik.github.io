@@ -1,4 +1,4 @@
-# MD/MPH Student
+# Resident Physician, Yale New Haven Health
 
 #### Pursuing medicine and public health in BIPOC (Black, Indigenous, & People of Color) communities.
 
@@ -9,21 +9,18 @@
 - _BS_, Stanford University (Electrical Engineering) (_2018_)
 
 ## Research Experience
-**Graduate RA in Carceral Health @ Warren Alpert Medical School at Brown University (_June 2023 - present_)**
-- Analyzing gaps in Hepatitis C treatment in carceral settings. Mentor: Dr. Justin Berk, MD.
-
-**Graduate RA in Homelessness @ NYU Langone Health (_June 2022 - present_)**
-- Co-hosting podcasts with homeless people about their experience with health care & creating research summaries about homelessness to disseminate to the public. Mentor: Dr. Kelly Doran, MD.
-
-**Graduate RA in Cardiology @ Stanford School of Medicine (_June 2023 - present_)**
+**Graduate RA in Cardiology @ Stanford School of Medicine (_2023 - present_)**
 - Analyzing (1) the role of donor age in donor heart offer refusal and (2) patterns in coronary angiogram
 performance in donors. Mentors: Dr. Brian Wayda, MD & Dr. Kiran Khush, MD.
 
-**Graduate RA in Neurology @ Harvard Medical School (_August 2019 - present_)**
-- Building regression models in Python to predict developmental delays in infants using EEG signals. Mentors: Dr. Charles Nelson, PhD & Dr. Carol Wilkinson, MD, PhD.
+**Graduate RA in Carceral Health @ Warren Alpert Medical School at Brown University (_2023 - present_)**
+- Analyzing gaps in Hepatitis C treatment in carceral settings. Mentor: Dr. Justin Berk, MD.
 
-**Graduate RA in Social Determinants of Health @ Northwell Health (_June 2023 - present_)**
-- Analyzing the relationship between emergency department visits, neighborhood safety, and employment status for sickle cell patients. Mentor: Dr. Sophia Jan, MD.
+**Graduate RA in Homelessness @ NYU Langone Health (_2022 - 2024_)**
+- Co-hosting podcasts with homeless people about their experience with health care & creating research summaries about homelessness to disseminate to the public. Mentor: Dr. Kelly Doran, MD.
+
+**Graduate RA in Neurology @ Harvard Medical School (_2019 - 2022_)**
+- Building regression models in Python to predict developmental delays in infants using EEG signals. Mentors: Dr. Charles Nelson, PhD & Dr. Carol Wilkinson, MD, PhD.
 
 ## Teaching Experience
 **Adjunct Professor @ Southern New Hampshire University (_2022 - present_)**
