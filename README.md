@@ -1,4 +1,4 @@
-## Resident Physician, 
+## Resident Physician
 ## Yale New Haven Health
 
 #### Pursuing medicine and public health in BIPOC (Black, Indigenous, & People of Color) communities.
