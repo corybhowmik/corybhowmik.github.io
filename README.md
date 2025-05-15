@@ -1,7 +1,7 @@
-## Resident Physician
-## Yale New Haven Health
-
 #### Pursuing medicine and public health in BIPOC (Black, Indigenous, & People of Color) communities.
+
+## Positions
+- _Internal Medicine Resident Physician_, Yale New Haven Health (_2025-28_)
 
 ## Education
 - _MPH_, Johns Hopkins University (_2025_)
@@ -17,26 +17,26 @@ performance in donors. Mentors: Dr. Brian Wayda, MD & Dr. Kiran Khush, MD.
 **Graduate RA in Carceral Health @ Warren Alpert Medical School at Brown University (_2023 - present_)**
 - Analyzing gaps in Hepatitis C treatment in carceral settings. Mentor: Dr. Justin Berk, MD.
 
-**Graduate RA in Homelessness @ NYU Langone Health (_2022 - 2024_)**
-- Co-hosting podcasts with homeless people about their experience with health care & creating research summaries about homelessness to disseminate to the public. Mentor: Dr. Kelly Doran, MD.
+**Graduate RA in Homelessness @ NYU Langone Health (_2022-24_)**
+- Co-hosted podcasts with homeless people about their experience with health care & created research summaries about homelessness to disseminate to the public. Mentor: Dr. Kelly Doran, MD.
 
-**Graduate RA in Neurology @ Harvard Medical School (_2019 - 2022_)**
-- Building regression models in Python to predict developmental delays in infants using EEG signals. Mentors: Dr. Charles Nelson, PhD & Dr. Carol Wilkinson, MD, PhD.
+**Graduate RA in Neurology @ Harvard Medical School (_2019-22_)**
+- Built regression models in Python to predict developmental delays in infants using EEG signals. Mentors: Dr. Charles Nelson, PhD & Dr. Carol Wilkinson, MD, PhD.
 
 ## Teaching Experience
 **Adjunct Professor @ Southern New Hampshire University (_2022 - present_)**
 - Calculus I: Single-Variable Calculus, Calculus II: Integration and Series, Calculus III: Multivariable Calculus, Differential Equations, Applied Linear Algebra, Applications of Calculus, Applied Statistics, Applied Statistics for STEM
 
-**High School Teacher @ Milton Academy (_2020 - 2021_)**
+**High School Teacher @ Milton Academy (_2020-21_)**
 - AP Calculus AB/BC, AP Statistics, Precalculus
 
-**Graduate TA @ Harvard Graduate School of Education (_2020 - 2021_)**
+**Graduate TA @ Harvard Graduate School of Education (_2020-21_)**
 - Educational Psychology
 
-**Instructor @ Stanford University (_2015 - 2019_)**
+**Instructor @ Stanford University (_2015-19_)**
 - FROSH 101 - Mental Health & Diversity/Equity/Inclusion, MED 199 - Health Education for Urban POC, MED 199 - Introduction to Research
 
-**Undergraduate TA @ Stanford University (_2017 - 2019_)**
+**Undergraduate TA @ Stanford University (_2017-19_)**
 - CME 102 - Ordinary Differential Equations, CHEM 31X - Accelerated Inorganic Chemistry, CHEM 141 - Physical Biochemistry
 
 ## Publications
@@ -79,7 +79,7 @@ performance in donors. Mentors: Dr. Brian Wayda, MD & Dr. Kiran Khush, MD.
 8. AC Bhowmik, B Belotserkovskii, & P Hanawalt (2015). On the role of the nontemplate strand in RNA polymerase’s traversal of single-strand breaks. Stanford Summer Research Symposium in Biology.
 
 ## Miscellaneous
-- **Honors:** Gold Humanism Honor Society, Stanford President’s Award for Top 5% GPA, Stanford Campus Impact Award for Health Education & Life Partnership for Kids, Stanford Community Partnership Award for Stanford Journal of Public Health
+- **Honors:** Gold Humanism Honor Society, Stanford President’s Award for Top 5% GPA
 - **Certifications:** Emergency Medical Technician (EMT), NY State Dept. of Health
 - **Skills:** Python, MATLAB, R
 - **Hobbies:** Dates with my partner (Titi), playing with our catahoula leopard dog (Coco), & bartending
