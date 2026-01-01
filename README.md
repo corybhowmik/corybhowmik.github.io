@@ -40,22 +40,23 @@ performance in donors. Mentors: Dr. Brian Wayda, MD & Dr. Kiran Khush, MD.
 - CME 102 - Ordinary Differential Equations, CHEM 31X - Accelerated Inorganic Chemistry, CHEM 141 - Physical Biochemistry
 
 ## Publications
-1. AC Bhowmik (2025). Treatment of HIV infection in transgender patients - Opportunities for tailored care. Society of General Internal Medicine Forum, 48(9):10-11.
-2. WW An, AC Bhowmik, CA Nelson, & CL Wilkinson (2025). EEG-based brain age prediction in infants–toddlers: Implications for early detection of neurodevelopmental disorders. Developmental Cognitive Neuroscience, 71.
-3. AC Bhowmik, B Wayda, H Luikart, Y Weng, S Zhang, RP Wood, J Nieto, T Groat, N Neidlinger, & KK Khush (2024). Just a number? Donor age and (lack of) associated reasons for heart offer refusal in the Donor Heart Study. Journal of Heart and Lung Transplantation, 43(11):1833-1837.
-4. AC Bhowmik (2024). In pursuit of equitable care: The 2024 SGIM Annual Meeting from the student perspective. Society of General Internal Medicine Forum, 47(10):7-15.
-5. AC Bhowmik (2024). Dengue in West Bengal – Methods of infection prevention. Social and Behavioral Foundations of Primary Health Care.
-6. AC Bhowmik (2024). Bob Marley - Building patient trust through a family-based approach. Society of General Internal Medicine Forum, 47(7):9-15.
-7. AC Bhowmik (2024). Help: The assumption of drug-seeking behavior in Black patients presenting with pain. Intima Journal of Narrative Medicine.
-8. AC Bhowmik (2024). The state of medical care in the carceral system. Society of General Internal Medicine Forum, 47(6):1-12.
-9. AC Bhowmik (2024). Colonialism and capitalism as determinants of modern health. Hampton Institute: Health & Science.
-10. K Davis, AC Bhowmik, & G Fuligni (2022). Health & housing stability I - An introduction. Hear Our Voices Podcasts.
-11. K Davis, AC Bhowmik, & G Fuligni (2022). Health & housing stability II - An interview with a person with lived experience. Hear Our Voices Podcasts.
-12. AC Bhowmik & G Fuligni (2022). Mental health & homelessness – A research summary. NYU Langone Health.
-13. JM Moore, E Sala, A Amorin, H Martinez Jr, AC Bhowmik, S Chang, S Soltys, GR Harsh, & L Katznelson (2018). CyberKnife radiosurgery in the multimodal management of patients with Cushing’s Disease. World Neurosurgery, 112(1):425-439.
-14. E Sala, JM Moore, A Amorin, H Martinez Jr, AC Bhowmik, L Lamsam, S Chang, S Soltys, L Katznelson, & GR Harsh (2018). CyberKnife radiosurgery in the multimodal management of acromegaly patients with invasive macroadenoma: A single center’s experience. Journal of Neuro-Oncology, 138(2):291-298.
-15. AC Bhowmik, N Hall, & M Quinn (2018). Building detection in satellite images – Improving resource distribution in Rohingya Muslim refugee camps. Stanford Deep Learning Symposium.
-16. AC Bhowmik (2017). Dual-use in synthetic biology: Balancing intellectual freedom with regulations on research. Stanford Journal of Public Health, 6(1):7-10.
+1. J Berk, MJ Akiyama, N Schachman, R Junkin, AC Bhowmik, D Davis, S Williams, J Rich, & M Murphy (2026). Hepatitis C treatment in a jail setting: A retrospective cohort analysis of low-barrier initiation of direct acting antivirals. International Journal of Drug Policy, 148.
+2. AC Bhowmik (2025). Treatment of HIV infection in transgender patients - Opportunities for tailored care. Society of General Internal Medicine Forum, 48(9):10-11.
+3. WW An, AC Bhowmik, CA Nelson, & CL Wilkinson (2025). EEG-based brain age prediction in infants–toddlers: Implications for early detection of neurodevelopmental disorders. Developmental Cognitive Neuroscience, 71.
+4. AC Bhowmik, B Wayda, H Luikart, Y Weng, S Zhang, RP Wood, J Nieto, T Groat, N Neidlinger, & KK Khush (2024). Just a number? Donor age and (lack of) associated reasons for heart offer refusal in the Donor Heart Study. Journal of Heart and Lung Transplantation, 43(11):1833-1837.
+5. AC Bhowmik (2024). In pursuit of equitable care: The 2024 SGIM Annual Meeting from the student perspective. Society of General Internal Medicine Forum, 47(10):7-15.
+6. AC Bhowmik (2024). Dengue in West Bengal – Methods of infection prevention. Social and Behavioral Foundations of Primary Health Care.
+7. AC Bhowmik (2024). Bob Marley - Building patient trust through a family-based approach. Society of General Internal Medicine Forum, 47(7):9-15.
+8. AC Bhowmik (2024). Help: The assumption of drug-seeking behavior in Black patients presenting with pain. Intima Journal of Narrative Medicine.
+9. AC Bhowmik (2024). The state of medical care in the carceral system. Society of General Internal Medicine Forum, 47(6):1-12.
+10. AC Bhowmik (2024). Colonialism and capitalism as determinants of modern health. Hampton Institute: Health & Science.
+11. K Davis, AC Bhowmik, & G Fuligni (2022). Health & housing stability I - An introduction. Hear Our Voices Podcasts.
+12. K Davis, AC Bhowmik, & G Fuligni (2022). Health & housing stability II - An interview with a person with lived experience. Hear Our Voices Podcasts.
+13. AC Bhowmik & G Fuligni (2022). Mental health & homelessness – A research summary. NYU Langone Health.
+14. JM Moore, E Sala, A Amorin, H Martinez Jr, AC Bhowmik, S Chang, S Soltys, GR Harsh, & L Katznelson (2018). CyberKnife radiosurgery in the multimodal management of patients with Cushing’s Disease. World Neurosurgery, 112(1):425-439.
+15. E Sala, JM Moore, A Amorin, H Martinez Jr, AC Bhowmik, L Lamsam, S Chang, S Soltys, L Katznelson, & GR Harsh (2018). CyberKnife radiosurgery in the multimodal management of acromegaly patients with invasive macroadenoma: A single center’s experience. Journal of Neuro-Oncology, 138(2):291-298.
+16. AC Bhowmik, N Hall, & M Quinn (2018). Building detection in satellite images – Improving resource distribution in Rohingya Muslim refugee camps. Stanford Deep Learning Symposium.
+17. AC Bhowmik (2017). Dual-use in synthetic biology: Balancing intellectual freedom with regulations on research. Stanford Journal of Public Health, 6(1):7-10.
 
 ## Conference Abstracts
 1. AC Bhowmik, B Wayda, Y Weng, S Zhang, & KK Khush (2025). Who gets one? Trends, variation, and predictors of donor coronary angiogram performance. International Society for Heart and Lung Transplantation.
