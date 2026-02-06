@@ -47,16 +47,17 @@ performance in donors. Mentors: Dr. Brian Wayda, MD & Dr. Kiran Khush, MD.
 5. AC Bhowmik (2024). In pursuit of equitable care: The 2024 SGIM Annual Meeting from the student perspective. Society of General Internal Medicine Forum, 47(10):7-15.
 6. AC Bhowmik (2024). Dengue in West Bengal – Methods of infection prevention. Social and Behavioral Foundations of Primary Health Care.
 7. AC Bhowmik (2024). Bob Marley - Building patient trust through a family-based approach. Society of General Internal Medicine Forum, 47(7):9-15.
-8. AC Bhowmik (2024). Help: The assumption of drug-seeking behavior in Black patients presenting with pain. Intima Journal of Narrative Medicine.
-9. AC Bhowmik (2024). The state of medical care in the carceral system. Society of General Internal Medicine Forum, 47(6):1-12.
-10. AC Bhowmik (2024). Colonialism and capitalism as determinants of modern health. Hampton Institute: Health & Science.
-11. K Davis, AC Bhowmik, & G Fuligni (2022). Health & housing stability I - An introduction. Hear Our Voices Podcasts.
-12. K Davis, AC Bhowmik, & G Fuligni (2022). Health & housing stability II - An interview with a person with lived experience. Hear Our Voices Podcasts.
-13. AC Bhowmik & G Fuligni (2022). Mental health & homelessness – A research summary. NYU Langone Health.
-14. JM Moore, E Sala, A Amorin, H Martinez Jr, AC Bhowmik, S Chang, S Soltys, GR Harsh, & L Katznelson (2018). CyberKnife radiosurgery in the multimodal management of patients with Cushing’s Disease. World Neurosurgery, 112(1):425-439.
-15. E Sala, JM Moore, A Amorin, H Martinez Jr, AC Bhowmik, L Lamsam, S Chang, S Soltys, L Katznelson, & GR Harsh (2018). CyberKnife radiosurgery in the multimodal management of acromegaly patients with invasive macroadenoma: A single center’s experience. Journal of Neuro-Oncology, 138(2):291-298.
-16. AC Bhowmik, N Hall, & M Quinn (2018). Building detection in satellite images – Improving resource distribution in Rohingya Muslim refugee camps. Stanford Deep Learning Symposium.
-17. AC Bhowmik (2017). Dual-use in synthetic biology: Balancing intellectual freedom with regulations on research. Stanford Journal of Public Health, 6(1):7-10.
+8. AC Bhowmik, TF Odedele, & TT Odedele (2024). A decolonial approach to mental healthcare. Hampton Institute: Health & Science.
+9. AC Bhowmik (2024). Help: The assumption of drug-seeking behavior in Black patients presenting with pain. Intima Journal of Narrative Medicine.
+10. AC Bhowmik (2024). The state of medical care in the carceral system. Society of General Internal Medicine Forum, 47(6):1-12.
+11. AC Bhowmik (2024). Colonialism and capitalism as determinants of modern health. Hampton Institute: Health & Science.
+12. K Davis, AC Bhowmik, & G Fuligni (2022). Health & housing stability I - An introduction. Hear Our Voices Podcasts.
+13. K Davis, AC Bhowmik, & G Fuligni (2022). Health & housing stability II - An interview with a person with lived experience. Hear Our Voices Podcasts.
+14. AC Bhowmik & G Fuligni (2022). Mental health & homelessness – A research summary. NYU Langone Health.
+15. JM Moore, E Sala, A Amorin, H Martinez Jr, AC Bhowmik, S Chang, S Soltys, GR Harsh, & L Katznelson (2018). CyberKnife radiosurgery in the multimodal management of patients with Cushing’s Disease. World Neurosurgery, 112(1):425-439.
+16. E Sala, JM Moore, A Amorin, H Martinez Jr, AC Bhowmik, L Lamsam, S Chang, S Soltys, L Katznelson, & GR Harsh (2018). CyberKnife radiosurgery in the multimodal management of acromegaly patients with invasive macroadenoma: A single center’s experience. Journal of Neuro-Oncology, 138(2):291-298.
+17. AC Bhowmik, N Hall, & M Quinn (2018). Building detection in satellite images – Improving resource distribution in Rohingya Muslim refugee camps. Stanford Deep Learning Symposium.
+18. AC Bhowmik (2017). Dual-use in synthetic biology: Balancing intellectual freedom with regulations on research. Stanford Journal of Public Health, 6(1):7-10.
 
 ## Conference Abstracts
 1. AC Bhowmik, B Wayda, Y Weng, S Zhang, & KK Khush (2025). Who gets one? Trends, variation, and predictors of donor coronary angiogram performance. International Society for Heart and Lung Transplantation.
@@ -71,14 +72,15 @@ performance in donors. Mentors: Dr. Brian Wayda, MD & Dr. Kiran Khush, MD.
 10. E Sala, JM Moore, A Amorin, H Martinez Jr, AC Bhowmik, L Lamsam, S Chang, S Soltys, L Katznelson, & GR Harsh (2017). CyberKnife radiotherapy for the multimodal management of pituitary adenomas. Congress of Neurological Surgeons.
 
 ## Posters & Talks
-1. E Pan, S Siddiqui, AC Bhowmik, M Bright, K Thompson, & A Alleva (2024). Patient satisfaction with a student-run free clinic and its financial referral services. Hofstra/Northwell Capstone Symposium.
-2. I Berthomieux, K Davis, AC Bhowmik, & G Fuligni (2022). Flipping the script - A teach-in on the intersection of mental health and homelessness. NYU Langone Health.
-3. AC Bhowmik (2020). Understanding mental health programs in schools: How educational interventions are trying to reduce depression and anxiety, especially for marginalized folx. Harvard Graduate School of Education.
-4. AC Bhowmik & A Atkins (2020). Assessing implicit bias in sexuality using Python and R modeling. Harvard Graduate School of Education.
-5. AC Bhowmik & E Brown (2018). Classification of anesthetic states in patients using Kalman filtering and support vector machines. Stanford Symposia of Undergraduate Research and Public Service (SURPS).
-6. AC Bhowmik, B Belotserkovskii, & P Hanawalt (2016). On the role of PNA:DNA hybrid length in transcription blockage and scheduled DNA excision pathways. Stanford Symposia of Undergraduate Research and Public Service (SURPS).
-7. AC Bhowmik, B Belotserkovskii, & P Hanawalt (2016). On the role of PNA:DNA hybrid length in transcription blockage and scheduled DNA excision pathways. Stanford Summer Research Symposium in Biology.
-8. AC Bhowmik, B Belotserkovskii, & P Hanawalt (2015). On the role of the nontemplate strand in RNA polymerase’s traversal of single-strand breaks. Stanford Summer Research Symposium in Biology.
+1. AC Bhowmik (2026). Capitalism, colonialism, & other structural determinants of health. Hofstra/Northwell Free Clinic Education Day.
+2. E Pan, S Siddiqui, AC Bhowmik, M Bright, K Thompson, & A Alleva (2024). Patient satisfaction with a student-run free clinic and its financial referral services. Hofstra/Northwell Capstone Symposium.
+3. I Berthomieux, K Davis, AC Bhowmik, & G Fuligni (2022). Flipping the script - A teach-in on the intersection of mental health and homelessness. NYU Langone Health.
+4. AC Bhowmik (2020). Understanding mental health programs in schools: How educational interventions are trying to reduce depression and anxiety, especially for marginalized folx. Harvard Graduate School of Education.
+5. AC Bhowmik & A Atkins (2020). Assessing implicit bias in sexuality using Python and R modeling. Harvard Graduate School of Education.
+6. AC Bhowmik & E Brown (2018). Classification of anesthetic states in patients using Kalman filtering and support vector machines. Stanford Symposia of Undergraduate Research and Public Service (SURPS).
+7. AC Bhowmik, B Belotserkovskii, & P Hanawalt (2016). On the role of PNA:DNA hybrid length in transcription blockage and scheduled DNA excision pathways. Stanford Symposia of Undergraduate Research and Public Service (SURPS).
+8. AC Bhowmik, B Belotserkovskii, & P Hanawalt (2016). On the role of PNA:DNA hybrid length in transcription blockage and scheduled DNA excision pathways. Stanford Summer Research Symposium in Biology.
+9. AC Bhowmik, B Belotserkovskii, & P Hanawalt (2015). On the role of the nontemplate strand in RNA polymerase’s traversal of single-strand breaks. Stanford Summer Research Symposium in Biology.
 
 ## Miscellaneous
 - **Honors:** Gold Humanism Honor Society, Stanford President’s Award for Top 5% GPA
