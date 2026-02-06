@@ -73,14 +73,15 @@ performance in donors. Mentors: Dr. Brian Wayda, MD & Dr. Kiran Khush, MD.
 
 ## Posters & Talks
 1. AC Bhowmik (2026). Capitalism, colonialism, & other structural determinants of health. Hofstra/Northwell Free Clinic Education Day.
-2. E Pan, S Siddiqui, AC Bhowmik, M Bright, K Thompson, & A Alleva (2024). Patient satisfaction with a student-run free clinic and its financial referral services. Hofstra/Northwell Capstone Symposium.
-3. I Berthomieux, K Davis, AC Bhowmik, & G Fuligni (2022). Flipping the script - A teach-in on the intersection of mental health and homelessness. NYU Langone Health.
-4. AC Bhowmik (2020). Understanding mental health programs in schools: How educational interventions are trying to reduce depression and anxiety, especially for marginalized folx. Harvard Graduate School of Education.
-5. AC Bhowmik & A Atkins (2020). Assessing implicit bias in sexuality using Python and R modeling. Harvard Graduate School of Education.
-6. AC Bhowmik & E Brown (2018). Classification of anesthetic states in patients using Kalman filtering and support vector machines. Stanford Symposia of Undergraduate Research and Public Service (SURPS).
-7. AC Bhowmik, B Belotserkovskii, & P Hanawalt (2016). On the role of PNA:DNA hybrid length in transcription blockage and scheduled DNA excision pathways. Stanford Symposia of Undergraduate Research and Public Service (SURPS).
-8. AC Bhowmik, B Belotserkovskii, & P Hanawalt (2016). On the role of PNA:DNA hybrid length in transcription blockage and scheduled DNA excision pathways. Stanford Summer Research Symposium in Biology.
-9. AC Bhowmik, B Belotserkovskii, & P Hanawalt (2015). On the role of the nontemplate strand in RNA polymerase’s traversal of single-strand breaks. Stanford Summer Research Symposium in Biology.
+2. AC Bhowmik (2025). Check your numbers! Increasing blood pressure monitoring in NYC. Johns Hopkins Public Health Practicum Symposium.
+3. E Pan, S Siddiqui, AC Bhowmik, M Bright, K Thompson, & A Alleva (2024). Patient satisfaction with a student-run free clinic and its financial referral services. Hofstra/Northwell Capstone Symposium.
+4. I Berthomieux, K Davis, AC Bhowmik, & G Fuligni (2022). Flipping the script - A teach-in on the intersection of mental health and homelessness. NYU Langone Health.
+5. AC Bhowmik (2020). Understanding mental health programs in schools: How educational interventions are trying to reduce depression and anxiety, especially for marginalized folx. Harvard Graduate School of Education.
+6. AC Bhowmik & A Atkins (2020). Assessing implicit bias in sexuality using Python and R modeling. Harvard Graduate School of Education.
+7. AC Bhowmik & E Brown (2018). Classification of anesthetic states in patients using Kalman filtering and support vector machines. Stanford Symposia of Undergraduate Research and Public Service (SURPS).
+8. AC Bhowmik, B Belotserkovskii, & P Hanawalt (2016). On the role of PNA:DNA hybrid length in transcription blockage and scheduled DNA excision pathways. Stanford Symposia of Undergraduate Research and Public Service (SURPS).
+9. AC Bhowmik, B Belotserkovskii, & P Hanawalt (2016). On the role of PNA:DNA hybrid length in transcription blockage and scheduled DNA excision pathways. Stanford Summer Research Symposium in Biology.
+10. AC Bhowmik, B Belotserkovskii, & P Hanawalt (2015). On the role of the nontemplate strand in RNA polymerase’s traversal of single-strand breaks. Stanford Summer Research Symposium in Biology.
 
 ## Miscellaneous
 - **Honors:** Gold Humanism Honor Society, Stanford President’s Award for Top 5% GPA
