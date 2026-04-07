@@ -14,7 +14,7 @@
 - Analyzing (1) the role of donor age in donor heart offer refusal and (2) patterns in coronary angiogram
 performance in donors. Mentors: Dr. Brian Wayda, MD & Dr. Kiran Khush, MD.
 
-**Graduate RA in Carceral Health @ Warren Alpert Medical School at Brown University (_2023 - present_)**
+**Graduate RA in Carceral Health @ Warren Alpert Medical School at Brown University (_2023-25_)**
 - Analyzing gaps in Hepatitis C treatment in carceral settings. Mentor: Dr. Justin Berk, MD.
 
 **Graduate RA in Homelessness @ NYU Langone Health (_2022-24_)**
