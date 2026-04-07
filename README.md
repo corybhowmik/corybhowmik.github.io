@@ -85,8 +85,7 @@ performance in donors. Mentors: Dr. Brian Wayda, MD & Dr. Kiran Khush, MD.
 11. AC Bhowmik, B Belotserkovskii, & P Hanawalt (2015). On the role of the nontemplate strand in RNA polymerase’s traversal of single-strand breaks. Stanford Summer Research Symposium in Biology.
 
 ## Miscellaneous
-- **Honors:** Gold Humanism Honor Society, Stanford President’s Award for Top 5% GPA
 - **Certifications:** Emergency Medical Technician (EMT), NY State Dept. of Health
 - **Skills:** Python, MATLAB, R
-- **Hobbies:** Dates with my partner (Titi), playing with our catahoula leopard dog (Coco), & bartending
+- **Hobbies:** Dates with my partner (Titi), playing with our catahoula leopard dog (Coco), & barista-ing
 
